@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>shangjia.png</file>
+    <file>xia.png</file>
+    <file>xiajia.png</file>
+    <file>shang.png</file>
+    <file>you.png</file>
+    <file>youjia.png</file>
+    <file>zuo.png</file>
+    <file>zuojia.png</file>
+    <file>globes_write.png</file>
+  </qresource>
+</RCC>

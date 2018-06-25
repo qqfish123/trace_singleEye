@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>globes_write.png</file>
+    <file>write.png</file>
+    <file>horses.jpg</file>
+    <file>globes_red.png</file>
+  </qresource>
+</RCC>
